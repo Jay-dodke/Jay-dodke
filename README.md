@@ -11,6 +11,20 @@
 </p>
 
 <p align="center">
-     <a href="https://jaydodke.com" target="_blank">Visit My Portfolio Website</a>
+  <a href="https://jaydodke.com" target="_blank" style="
+      font-size: 20px;
+      font-weight: bold;
+      color: #00ffff;
+      text-decoration: none;
+      animation: glow 1.5s infinite alternate;">
+       Visit My Portfolio Website
+  </a>
 </p>
+
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 5px #00b3ff; }
+  to { text-shadow: 0 0 20px #00ffff; }
+}
+</style>
 
