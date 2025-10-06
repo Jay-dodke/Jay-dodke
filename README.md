@@ -11,5 +11,6 @@
 </p>
 
 <p align="center">
-    🌐 <a href="https://jaydodke.com" target="_blank">Visit My Portfolio Website</a>
+     <a href="https://jaydodke.com" target="_blank">Visit My Portfolio Website</a>
 </p>
+
