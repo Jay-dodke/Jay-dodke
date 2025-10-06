@@ -10,21 +10,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
 </p>
 
-<p align="center">
-  <a href="https://jaydodke.com" target="_blank" style="
-      font-size: 20px;
-      font-weight: bold;
-      color: #00ffff;
-      text-decoration: none;
-      animation: glow 1.5s infinite alternate;">
-       Visit My Portfolio Website
-  </a>
-</p>
 
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 5px #00b3ff; }
-  to { text-shadow: 0 0 20px #00ffff; }
-}
-</style>
 
